@@ -1,25 +1,17 @@
 <p align="center">
+  <img src="https://opencollective.com/docz/tiers/bronze-sponsors.svg?avatarHeight=70" alt="Sponsor"> 
+</p>
+
+<p align="center" style="margin-bottom: -20px">
+  <img src="https://cdn-std.dprcdn.net/files/acc_649651/BSPk3z">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/npm/v/docz.svg" alt="">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="">
   <img src="https://img.shields.io/npm/dt/docz.svg" alt="">
   <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg" alt="">
 </p>
-
-<p align="center" style="margin-bottom: -20px">
-  <img src="https://cdn-std.dprcdn.net/files/acc_649651/ilOByk">
-</p>
-
----
-
-<p align="center">
-  <a href="http://docz.site" target="_blank">Home</a> |
-  <a href="http://docz.site/introduction" target="_blank">Introduction</a> |
-  <a href="http://docz.site/documentation" target="_blank">Documentation</a> |
-  <a href="http://docz.site/themes" target="_blank">Themes</a> |
-  <a href="http://docz.site/plugins" target="_blank">Plugins</a>
-</p>
-
----
 
 <p align="center">
   <a href="http://docz.site" target="_blank">
@@ -46,7 +38,7 @@ The open source world with tools that make developers life easier and the creati
 
 To break barriers and facilitate the creation of tools was the purpose that Docz arose. Document our things is one of the most important and painful process that exist when you're creating something new. We lose a lot of our precious time with unnecessary setups to be able to build something that can represent and express what we want with our own style.
 
-## 📚 &nbsp; About
+## 👉🏻 &nbsp; More info on [our website](https://docz.site)
 
 - [Introduction](http://www.docz.site/introduction)
   - [Getting Started](http://www.docz.site/introduction/getting-started)
