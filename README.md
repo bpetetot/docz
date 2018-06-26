@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="http://docz.site" target="_blank">
-    <img src="https://cdn-std.dprcdn.net/files/acc_649651/XG4L5H" alt="Docz video">
+    <img src="https://cdn-std.dprcdn.net/files/acc_649651/e0MVXU" alt="Docz video">
   </a>
 </p>
 
